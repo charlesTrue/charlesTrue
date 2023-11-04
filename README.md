@@ -1,4 +1,4 @@
-<h1>Hi, I'm Charles! <br/><a href="https://github.com/charlesTrue">SoftwareDev</a>, <a href="https://| www.linkedin.com/in/charles-trouilliere/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/charlesTrue">YouTuber</a></h1>
+<h1>Hi, I'm Charles! <br/><a href="https://github.com/charlesTrue">SoftwareDev</a>, <a href="https://| www.linkedin.com/in/charles-trouilliere/"> Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/charlesTrue"> & YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
