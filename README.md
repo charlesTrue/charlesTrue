@@ -5,6 +5,7 @@
 - Active Directory Home Lab
 <h2>👨‍💻 Certs :</h2>
 <h2>📺 Popular YouTube Videos</h2>
+- Presentation: Analyzing Cyberwarfare
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
