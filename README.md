@@ -4,14 +4,17 @@
 - Active Directory Home Lab
 - Crypt Guard
 - Python Vulnerability Scanner
-<h2>👨‍💻 Certifications :</h2>
-<h2>📺 YouTube Project Videos</h2>
-- [Presentation: Analyzing Cyberwarfare](https://www.youtube.com/)
-- []
-- []
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-<h2> 🤳 Connect with me:</h2>
 
+<h2>👨‍💻 Certifications :</h2>
+- Security + 
+- Google Cybersecurity Certification 
+<h2>📺 YouTube Project Videos</h2>
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- [Python Vulnerability ScannerPython Vulnerability Scanner](www.youtube.com/@CharlesTro)
+- [Active Directory Home Lab](www.youtube.com/@CharlesTro)
+- [Crypt Guard](www.youtube.com/@CharlesTro)
+
+<h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="CharlesTrouilliere | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="CharlesTrouilliere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
