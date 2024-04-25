@@ -7,11 +7,11 @@
 - <b>Active Directory Home Lab</b>
   - [Active Directory Home Lab](www.youtube.com/@CharlesTro)
 - <b>Cryptography</b>
-  - [Crypt Guard](www.youtube.com/@CharlesTro) <b><i>(Potentially NSFW)</b></i>
+  - [Crypt Guard](www.youtube.com/@CharlesTro)
 
 <h2>👨‍💻 Certifications :</h2>
-- Security + 
-- Google Cybersecurity Certification 
+- <b>Security +</b>
+- <b>Google Cybersecurity Certification</b>
 
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="CharlesTrouilliere | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
