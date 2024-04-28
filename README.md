@@ -1,17 +1,17 @@
 <h1>Hi, I'm Charles! <br/><a href="https://github.com/charlesTrue">Software Dev, <a href="https://| www.linkedin.com/in/charles-trouilliere/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/charlesTrue"> & YouTuber</a></h1>
 <h2>👨‍💻Cybersecurity Competitions:</h2>
-  - [ITPentesting Competition Documentation][Link:](www.youtube.com/@CharlesTro)
+  - [ITPentesting Competition Documentation] [Link:] (www.youtube.com/@CharlesTro)
 
 
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
 - <b>Python</b>
-  - [Python Vulnerability Scanner][Link:](www.youtube.com/@CharlesTro)
+  - [Python Vulnerability Scanner] [Link:] (www.youtube.com/@CharlesTro)
 - <b>Active Directory Home Lab</b>
-  - [Active Directory Home Lab][Link:](www.youtube.com/@CharlesTro)
+  - [Active Directory Home Lab] [Link:] (www.youtube.com/@CharlesTro)
 - <b>Cryptography</b>
-  - [Crypt Guard][Link:](www.youtube.com/@CharlesTro)
+  - [Crypt Guard] [Link:] (www.youtube.com/@CharlesTro)
 
 <h2>  Certifications :</h2>
 - <b>• Security +  • Google Professional Cybersecurity Certificate</b>
