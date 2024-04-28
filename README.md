@@ -1,16 +1,20 @@
 <h1>Hi, I'm Charles! <br/><a href="https://github.com/charlesTrue">Software Dev, <a href="https://| www.linkedin.com/in/charles-trouilliere/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/charlesTrue"> & YouTuber</a></h1>
+<h2>👨‍💻Cybersecurity Competitions:</h2>
+  - [ITPentesting Competition Documentation][Link:](www.youtube.com/@CharlesTro)
+
+
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
 - <b>Python</b>
-  - [Python Vulnerability Scanner](www.youtube.com/@CharlesTro)
+  - [Python Vulnerability Scanner][Link:](www.youtube.com/@CharlesTro)
 - <b>Active Directory Home Lab</b>
-  - [Active Directory Home Lab](www.youtube.com/@CharlesTro)
+  - [Active Directory Home Lab][Link:](www.youtube.com/@CharlesTro)
 - <b>Cryptography</b>
-  - [Crypt Guard](www.youtube.com/@CharlesTro)
+  - [Crypt Guard][Link:](www.youtube.com/@CharlesTro)
 
 <h2>  Certifications :</h2>
-- <b>Security +</b>
+- <b>• Security +  • Google Professional Cybersecurity Certificate</b>
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="CharlesTrouilliere | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="CharlesTrouilliere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
