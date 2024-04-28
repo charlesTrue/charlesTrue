@@ -3,7 +3,7 @@
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
 - <b>Python</b>
-  - [Python Vulnerability ScannerPython Vulnerability Scanner](www.youtube.com/@CharlesTro)
+  - [Python Vulnerability Scanner](www.youtube.com/@CharlesTro)
 - <b>Active Directory Home Lab</b>
   - [Active Directory Home Lab](www.youtube.com/@CharlesTro)
 - <b>Cryptography</b>
