@@ -10,16 +10,13 @@
     - [After Action Report]
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
-- <b>Python</b>
-  - Python Vulnerability Scanner
+- <b>Python Vulnerability Scanner</b>
   - [Documentation](https://drive.google.com/file/d/10dZ7Vdxyo46c6tqKcNEfaVOlcjkvaU-6/view?usp=sharing)
   - [Demo](www.youtube.com/@CharlesTro)
-- <b>Active Directory</b>
-  - Active Directory Home Lab
+- <b>Active Directory Home Lab</b>
   - [Documentation]
   - [Demo](www.youtube.com/@CharlesTro)
-- <b>Cryptography</b>
-  - Crypt Guard 
+- <b>Crypt Guard</b>
   - [Documentation]
   - [Demo](www.youtube.com/@CharlesTro)
 
