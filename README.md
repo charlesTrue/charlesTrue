@@ -29,6 +29,8 @@
   - [Google Cybersecurity Professional Cert]
 
 <h2>👨‍💻Notes & Other Docs:</h2>
+- <b>Documents</b>
+
   - [Security Hardening Checklist](https://drive.google.com/file/d/133gBOeGOcYdkAXYoaZOt36Mh9Zl_CW3k/view?usp=sharing)
   - [Incident report analysis](https://docs.google.com/document/d/1INXDhVOp8sqK2q49zDn5cVhmIlPKb18SaNmjONrSPbw/edit?usp=sharing)
   - [NIST SP 800-30 - Guide to assessing risk](https://docs.google.com/document/d/1ff4dEA4uuI5iHhe8altrYKRTSzov98LxnV60Avg-Qq8/edit?usp=sharing)
