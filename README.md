@@ -3,9 +3,10 @@
   
   - <b>IT Pentesting Competition</b>
     - [Pen-Testing Comp]
+    - Statement of work:(https://drive.google.com/file/d/1wlhgTKDqxmzperwXOMyMC2abnPVmKEX1/view?usp=sharing)
     - Pen-Test Report:(https://drive.google.com/file/d/1P6UuhPc9q3aZHi87b6QuyVfdYIxx73MF/view?usp=sharing)
 
-
+    - [Red vs Blue]
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
