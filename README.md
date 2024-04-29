@@ -36,8 +36,6 @@
   - [NIST SP 800-30 - Guide to assessing risk](https://docs.google.com/document/d/1ff4dEA4uuI5iHhe8altrYKRTSzov98LxnV60Avg-Qq8/edit?usp=sharing)
   
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="CharlesTrouilliere | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="CharlesTrouilliere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [YouTube]: www.youtube.com/@CharlesTro
 [linkedin]: www.linkedin.com/in/charles-trouilliere
