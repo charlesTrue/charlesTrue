@@ -14,8 +14,9 @@
   - [Python Vulnerability Scanner]
   - Documentation:(https://drive.google.com/file/d/10dZ7Vdxyo46c6tqKcNEfaVOlcjkvaU-6/view?usp=sharing)
   - Demo:(www.youtube.com/@CharlesTro)
-- <b>Active Directory Home Lab</b>
-  - [Active Directory Home Lab] (www.youtube.com/@CharlesTro)
+- <b>Active Directory</b>
+  - [Active Directory Home Lab]
+  - Demo:(www.youtube.com/@CharlesTro)
 - <b>Cryptography</b>
   - [Crypt Guard] 
   - Documentation:
