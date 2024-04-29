@@ -28,7 +28,7 @@
   - [Google Cybersecurity Professional Cert](https://drive.google.com/file/d/12s-n7PSXN-BByVC1e6F-S-__-ZB5FPPF/view?usp=sharing)
 
 <h2>📒Notes & Other Docs:</h2>
-- <b>Documents</b>
+- <b>Reference Documents</b>
 
   - [Security Hardening checklist](https://drive.google.com/file/d/133gBOeGOcYdkAXYoaZOt36Mh9Zl_CW3k/view?usp=sharing)
   - [Example of a Cybersecurity Incident Report](https://drive.google.com/file/d/1M0frR30BJURdLOpWwvfAX-X9YHu_I9kc/view?usp=sharing)
