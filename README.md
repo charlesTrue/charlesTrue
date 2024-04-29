@@ -1,13 +1,16 @@
 <h1>Hello, I'm Charles! <br/><a href="https://github.com/charlesTrue">Software Dev, <a href="https://| www.linkedin.com/in/charles-trouilliere/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/charlesTrue"> & YouTuber</a></h1>
 <h2>👨‍💻Cybersecurity Competitions:</h2>
-  - [ITPentesting Competition Documentation]
+  - [IT Pentesting Competition]
+    - Pen Testing Report: 
 
 
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
 - <b>Python</b>
-  - [Python Vulnerability Scanner] (www.youtube.com/@CharlesTro)
+  - [Python Vulnerability Scanner]
+  - Documentation: (https://docs.google.com/document/d/1KM0c8zcWFuDU1T2bftgZvnklDiHbD-Fr0uqPJNQcc6k/edit?usp=sharing)
+  - Demo: (www.youtube.com/@CharlesTro)
 - <b>Active Directory Home Lab</b>
   - [Active Directory Home Lab] (www.youtube.com/@CharlesTro)
 - <b>Cryptography</b>
