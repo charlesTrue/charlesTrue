@@ -1,4 +1,4 @@
-<h1>Hello, I'm Charles! <br/><a href="https://github.com/charlesTrue">Software Dev, <a href="https://| www.linkedin.com/in/charles-trouilliere/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/charlesTrue"> & YouTuber</a></h1>
+<h1>Hello, I'm Charles! <br/> Software Dev,Cybersecurity Professional</a>,  & YouTuber</a></h1>
 <h2>🏆Cybersecurity Competitions:</h2>
   
   - <b>IT Pentesting Competition 🥇</b>
