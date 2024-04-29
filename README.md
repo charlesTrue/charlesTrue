@@ -25,8 +25,8 @@
 <h2>📜Certifications :</h2>
 
 - <b>Cybersecurity</b>
-  - [Security +]
-  - [Google Cybersecurity Professional Cert]
+  - [Security +](https://drive.google.com/file/d/1LGnPglovIcCjiwyC3cAIbYVPZurPOm7h/view?usp=sharing)
+  - [Google Cybersecurity Professional Cert](https://drive.google.com/file/d/12s-n7PSXN-BByVC1e6F-S-__-ZB5FPPF/view?usp=sharing)
 
 <h2>📒Notes & Other Docs:</h2>
 - <b>Documents</b>
