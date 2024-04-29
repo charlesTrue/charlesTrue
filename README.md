@@ -4,9 +4,10 @@
   - <b>IT Pentesting Competition</b>
     - Statement of work:(https://drive.google.com/file/d/1wlhgTKDqxmzperwXOMyMC2abnPVmKEX1/view?usp=sharing)
     - Pen-Test Report:(https://drive.google.com/file/d/1P6UuhPc9q3aZHi87b6QuyVfdYIxx73MF/view?usp=sharing)
-
-    - [Red vs Blue]
-
+      
+  - <b>Red vs Blue</b>
+    - Competition Briefing:(https://drive.google.com/file/d/1R2ZKVIgZR7MPfPKd0rRsxTUhQ9c81BDV/view?usp=sharing)
+    - After Action Report:
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
 - <b>Python</b>
