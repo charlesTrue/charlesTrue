@@ -34,7 +34,7 @@
 
   - [Security Hardening checklist](https://drive.google.com/file/d/133gBOeGOcYdkAXYoaZOt36Mh9Zl_CW3k/view?usp=sharing)
   - [Example of a Cybersecurity Incident Report](https://drive.google.com/file/d/1M0frR30BJURdLOpWwvfAX-X9YHu_I9kc/view?usp=sharing)
-  - [Incident report analysis](https://docs.google.com/document/d/1INXDhVOp8sqK2q49zDn5cVhmIlPKb18SaNmjONrSPbw/edit?usp=sharing)
+  - [Incident report analysis](https://drive.google.com/file/d/1XyONx1avp03zB_wf4dizboFy0TnABphQ/view?usp=sharing)
   - [NIST SP 800-30 - Guide to assessing risk](https://docs.google.com/document/d/1ff4dEA4uuI5iHhe8altrYKRTSzov98LxnV60Avg-Qq8/edit?usp=sharing)
   - [Controls and compliance checklist](https://docs.google.com/document/d/1attsGu6fZmfj6pAbWkHRVQQQOwDY8Hvaysco704d5I0/edit?usp=sharing)
 <h2> 🤳 Connect with me:</h2>
