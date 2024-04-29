@@ -1,4 +1,4 @@
-<h1>Hello, I'm Charles! <br/> Software Dev, Cybersecurity Professional</a>,  & YouTuber</a></h1>
+<h1> Hello and welcome to my GitHub portfolio! <br/> Software Dev, Cybersecurity Professional</a>,  & YouTuber</a></h1>
 <h2>🏆Cybersecurity Competitions:</h2>
   
   - <b>IT Pentesting Competition 🥇</b>
