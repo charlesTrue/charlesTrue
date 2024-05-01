@@ -25,7 +25,7 @@
 
 - <b>Cybersecurity</b>
   - [Security +](https://drive.google.com/file/d/1LGnPglovIcCjiwyC3cAIbYVPZurPOm7h/view?usp=sharing)
-  - [IT 1st Place Pentesting Competition Award](https://drive.google.com/file/d/1HKgr-DFABOw0b7yoVRzYR4EzCrm6vSIo/view?usp=sharing)
+  - [Pentesting Competition Award(1st-place)](https://drive.google.com/file/d/1HKgr-DFABOw0b7yoVRzYR4EzCrm6vSIo/view?usp=sharing)
   - [Google Cybersecurity Professional Cert](https://drive.google.com/file/d/12s-n7PSXN-BByVC1e6F-S-__-ZB5FPPF/view?usp=sharing)
 
 <h2>📒Notes & Other Docs:</h2>
