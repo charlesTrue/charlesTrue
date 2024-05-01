@@ -37,10 +37,9 @@
   - [NIST SP 800-30 - Guide to assessing risk](https://drive.google.com/file/d/18JsVdCDlCJ92dV_If8vKmI3aH2w54S_W/view?usp=sharing)
   - [Controls and compliance checklist](https://drive.google.com/file/d/1HJ1sdne9vwLW0zy_HmZv9hVa4_MloYcH/view?usp=sharing)
 <h2> 🤳 Connect with me:</h2>
-- <b>Documents</b>
 
--[YouTube]: www.youtube.com/@CharlesTro
--[linkedin]: www.linkedin.com/in/charles-trouilliere
+-[YouTube](www.youtube.com/@CharlesTro)
+-[Linkedin](www.linkedin.com/in/charles-trouilliere)
 
 <!--
 **charlesTrue/charlesTrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
