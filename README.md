@@ -39,7 +39,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 -[YouTube](https://youtube.com/@charlestro?si=QaO4HfhgWX3ruMgj)
--[Linkedin](www.linkedin.com/in/charles-trouilliere)
+-[Linkedin](https://www.linkedin.com/in/charles-trouilliere/)
 
 <!--
 **charlesTrue/charlesTrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
