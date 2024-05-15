@@ -17,7 +17,7 @@
 - <b>Active Directory Home Lab</b>
   - [Documentation]
   - [Demo](www.youtube.com/@CharlesTro)
-- <b>Crypt Guard</b>
+- <b>Crypt Guard.py</b>
   - [Documentation](https://drive.google.com/file/d/1arDBAADaPB26KVCYDI82-cGRUy4qTrGc/view?usp=sharing)
   - [Demo](www.youtube.com/@CharlesTro)
 
