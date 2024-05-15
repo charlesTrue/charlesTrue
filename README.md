@@ -38,7 +38,7 @@
   - [Controls and compliance checklist](https://drive.google.com/file/d/1HJ1sdne9vwLW0zy_HmZv9hVa4_MloYcH/view?usp=sharing)
 <h2> 🤳 Connect with me:</h2>
 
--[YouTube](www.youtube.com/@CharlesTro)
+-[YouTube](https://youtube.com/@charlestro?si=QaO4HfhgWX3ruMgj)
 -[Linkedin](www.linkedin.com/in/charles-trouilliere)
 
 <!--
