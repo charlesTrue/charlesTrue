@@ -13,7 +13,7 @@
 
 - <b>Python Vulnerability Scanner</b>
   - [Documentation](https://drive.google.com/file/d/10dZ7Vdxyo46c6tqKcNEfaVOlcjkvaU-6/view?usp=sharing)
-  - [Demo](www.youtube.com/@CharlesTro)
+  - [Demo]([www.youtube.com/@CharlesTro](https://youtu.be/T4D4roy8J7E?si=Payxq7aGEp32kgvr))
 - <b>Active Directory Home Lab</b>
   - [Documentation]
   - [Demo](www.youtube.com/@CharlesTro)
